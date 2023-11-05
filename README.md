@@ -8,14 +8,12 @@ The Prefix Used is `Floop`
 `Floop Ask:` Using the Unofficial Bard API, FloopBot will return a response from BARD through the value of a cookie
 
 `Floop Ping:` Pong! with Response Time
-
-
-
-
-
 ### Customizability
-
-
 I've made it easy to change the prefix used for FloopBot, the DiscordNames dictionary can be changed around, as it serves as a sort of whitelist for certain commands.
+
+### Coming Soon
+Voice Chat Commands
+More Utility Commands
+Better Source Code
 
 
