@@ -1,5 +1,6 @@
 # FloopBot
-Discord Bot
-##
+My First Project in Python
+## Functionality
+
 
 
