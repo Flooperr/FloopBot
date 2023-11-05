@@ -1,7 +1,7 @@
 from bardapi import Bard
 DiscordNames = {'flooperrr': 'Ariel', 'flamingoish': 'Devin', 'lazyrus123': 'Cameron', 'notjewish': 'Grady', 'illegal_mexico21': 'Erick', 'yizzzz69': 'Yiz'}
 # Set your Bard API key (the __Secure-1PSID cookie value)
-token = 'cwi0eQFDDzSTOh6_QnTVbxn8qfPIKRiJln6uxQPEj-K9kl_CcCYE5Br9vULMfdbzk1MHzg.'  # Replace with your actual API key
+token = 'BARD TOKEN HERE' 
 
 # Create a Bard instance
 bard = Bard(token=token)
