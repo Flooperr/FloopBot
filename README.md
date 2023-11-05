@@ -6,7 +6,9 @@ The Prefix Used is `Floop`
 `Floop Help:` Floop brings out embedded menu with other categories after saying floop help, such as floop help utility to show utility commands.
 
 `Floop Ask:` Using the Unofficial Bard API, FloopBot will return a response from BARD through the value of a cookie
+
 `Floop Ping:` Pong! with Response Time
+
 
 
 
