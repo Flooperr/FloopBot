@@ -47,5 +47,5 @@ async def on_message(message):
                 else:
                     await message.channel.send("I'm not in a voice channel.")
 
-client.run('MTE2ODQwNDI5OTIwMjY5MTA4Mg.GYwxsf.UbVusmDPwi6Ol-dipIfVPn01jXKRSmGUlkDhfQ')
+client.run('DISCORD TOKEN HERE')
 
