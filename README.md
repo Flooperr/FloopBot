@@ -13,7 +13,10 @@ I've made it easy to change the prefix used for FloopBot, the DiscordNames dicti
 
 ### Coming Soon
 Voice Chat Commands
+
 More Utility Commands
+
 Better Source Code
+
 
 
