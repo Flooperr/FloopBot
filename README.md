@@ -14,6 +14,8 @@ The Prefix Used is `Floop`
 
 
 ### Customizability
-I've made it easy to change the prefix used for FloopBot, the DiscordNames dictionary can be changes around, it serves as a sort of whitelist for certain commands.
+
+
+I've made it easy to change the prefix used for FloopBot, the DiscordNames dictionary can be changed around, as it serves as a sort of whitelist for certain commands.
 
 
