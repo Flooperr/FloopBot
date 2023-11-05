@@ -18,8 +18,9 @@ More Utility Commands
 
 Better Source Code
 
-###TOOLS USED 
+### TOOLS USED 
 https://github.com/dsdanielpark/Bard-API
+
 https://discordpy.readthedocs.io/en/stable/
 
 
